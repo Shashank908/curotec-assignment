@@ -1,5 +1,3 @@
-# vue-todo-client - A Vue.js project
-
 Front-end of a To-Do List app built using Vue.js
 
 ## Build Setup
